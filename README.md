@@ -1,1 +1,1 @@
-# Masters-project-AI-Automatic-text-generation
+In this project I have implemented Automatic text generation using LSTM model. Here I have taken the 2 different ways to approach the embedding of words namely: word2vec method and using keras pre-processing library.At the end I have done a comparative study to check which performs the best and gives higher accuracy.
